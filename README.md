@@ -4,7 +4,7 @@ A Python tool that calculates the pressure drop of a fluid flowing through a pip
 
 ## About
 
-I built this while going into my second year of Chemical Engineering, as a way to learn Python and apply it to something from my own field rather than abstract exercises. Pipe pressure drop is a core chemical engineering calculation — it comes up in pump sizing, pipe design and process work — so it made a good first project: familiar physics, but real code to make it work. It's also practice, a starting point I intend to keep improving as I get better at Python.
+I built this while going into my second year of Chemical Engineering, as a way to learn Python and apply it to something from my own field. Pipe pressure drop is a core chemical engineering calculation so it made a good first project: familiar physics, but real code to make it work. It's also practice, a starting point I intend to keep improving as I get better at Python.
 
 ## What it does
 
